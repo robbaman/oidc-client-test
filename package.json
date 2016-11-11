@@ -18,6 +18,7 @@
     "typings": "^2.0.0"
   },
   "dependencies": {
-    "oidc-client": "^1.2.1-beta.3"
+    "oidc-client": "^1.2.1-beta.3",
+    "systemjs": "^0.19.41"
   }
 }
